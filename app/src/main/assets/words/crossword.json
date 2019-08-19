@@ -1,0 +1,49 @@
+{
+  "word": "crossword",
+  "type": "nou",
+  "meanings": [
+    {
+      "meaning": "",
+      "collocation": [
+        {
+          "format": "ADJ.",
+          "groups": [
+            {
+              "words": [
+                "cryptic",
+                "quick"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "VERB + CROSSWORD",
+          "groups": [
+            {
+              "words": [
+                "do",
+                "fill in",
+                "solve"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "CROSSWORD + NOUN",
+          "groups": [
+            {
+              "words": [
+                "clue",
+                "puzzle"
+              ],
+              "examples": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": []
+}

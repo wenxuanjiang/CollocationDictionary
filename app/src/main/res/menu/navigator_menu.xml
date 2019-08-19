@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    >
+
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search"/>
+
+    <item
+        android:id="@+id/nav_collection"
+        android:icon="@drawable/ic_collect"
+        android:title="@string/collection"/>
+
+    <item
+        android:id="@+id/tab_four"
+        android:icon="@drawable/ic_setting"
+        android:title="@string/setting"/>
+</menu>

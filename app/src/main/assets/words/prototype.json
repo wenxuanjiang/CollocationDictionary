@@ -1,0 +1,81 @@
+{
+  "word": "prototype",
+  "type": "noun",
+  "meanings": [
+    {
+      "meaning": "",
+      "collocation": [
+        {
+          "format": "ADJ.",
+          "groups": [
+            {
+              "words": [
+                "pre-production"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "working"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "VERB + PROTOTYPE",
+          "groups": [
+            {
+              "words": [
+                "build",
+                "develop"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "test"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "PROTOTYPE + NOUN",
+          "groups": [
+            {
+              "words": [
+                "stage"
+              ],
+              "examples": [
+                "The car is presently at the prototype stage."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "PREP.",
+          "groups": [
+            {
+              "words": [
+                "~ for"
+              ],
+              "examples": [
+                "The team is developing a prototype for a digital compact camera."
+              ]
+            },
+            {
+              "words": [
+                "~ of"
+              ],
+              "examples": [
+                "He is working on the prototype of a new type of ventilator."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": []
+}

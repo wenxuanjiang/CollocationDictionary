@@ -1,0 +1,137 @@
+{
+  "word": "A level",
+  "type": "noun",
+  "meanings": [
+    {
+      "meaning": "",
+      "collocation": [
+        {
+          "format": "ADJ.",
+          "groups": [
+            {
+              "words": [
+                "mock"
+              ],
+              "examples": [
+                "I did all right in my mock A levels and then failed the real exams."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "VERB + A LEVEL",
+          "groups": [
+            {
+              "words": [
+                "do",
+                "sit",
+                "take"
+              ],
+              "examples": [
+                "She's doing her A levels this year."
+              ]
+            },
+            {
+              "words": [
+                "retake"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "do well in",
+                "pass"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "do badly in",
+                "fail",
+                "flunk"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "have"
+              ],
+              "examples": [
+                "She has four A levels."
+              ]
+            },
+            {
+              "words": [
+                "prepare for",
+                "revise for"
+              ],
+              "examples": [
+                "He can't come out?he's revising for his A levels."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "A LEVEL + NOUN",
+          "groups": [
+            {
+              "words": [
+                "course"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "exam"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "preparation",
+                "revision"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "paper",
+                "questions"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "grades",
+                "results"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "PREP.",
+          "groups": [
+            {
+              "words": [
+                "in your ~s"
+              ],
+              "examples": [
+                "What grades did you get in your A levels?"
+              ]
+            },
+            {
+              "words": [
+                "~ in"
+              ],
+              "examples": [
+                "He's got A levels in maths and history."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": []
+}

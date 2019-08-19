@@ -1,0 +1,147 @@
+{
+  "word": "abandon",
+  "type": "verb",
+  "meanings": [
+    {
+      "meaning": "leave sb/sth",
+      "collocation": [
+        {
+          "format": "ADV.",
+          "groups": [
+            {
+              "words": [
+                "hastily"
+              ],
+              "examples": [
+                "The village had been hastily abandoned."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "PHRASES",
+          "groups": [
+            {
+              "words": [
+                "be found/left abandoned"
+              ],
+              "examples": [
+                "The car was found abandoned in a nearby town."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "meaning": "stop doing/supporting sth",
+      "collocation": [
+        {
+          "format": "ADV.",
+          "groups": [
+            {
+              "words": [
+                "altogether",
+                "completely",
+                "entirely",
+                "totally"
+              ],
+              "examples": [
+                "The government does not propose to abandon the project altogether."
+              ]
+            },
+            {
+              "words": [
+                "effectively",
+                "largely",
+                "virtually"
+              ],
+              "examples": [
+                "This principle has now been effectively abandoned."
+              ]
+            },
+            {
+              "words": [
+                "simply"
+              ],
+              "examples": [
+                "Traditional policies were simply abandoned."
+              ]
+            },
+            {
+              "words": [
+                "formally"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "quickly"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "quietly"
+              ],
+              "examples": [
+                "The plans for reform were quietly abandoned."
+              ]
+            },
+            {
+              "words": [
+                "temporarily"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "voluntarily"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "VERB + ABANDON",
+          "groups": [
+            {
+              "words": [
+                "be forced to"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "decide to"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "PREP.",
+          "groups": [
+            {
+              "words": [
+                "for"
+              ],
+              "examples": [
+                "He abandoned the army for politics."
+              ]
+            },
+            {
+              "words": [
+                "in favour of"
+              ],
+              "examples": [
+                "She abandoned teaching career in favour of sport."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": []
+}

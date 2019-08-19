@@ -1,0 +1,58 @@
+{
+  "word": "budge",
+  "type": "verb",
+  "meanings": [
+    {
+      "meaning": "",
+      "collocation": [
+        {
+          "format": "VERB + BUDGE",
+          "groups": [
+            {
+              "words": [
+                "refuse to",
+                "will/would not"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "PREP.",
+          "groups": [
+            {
+              "words": [
+                "from"
+              ],
+              "examples": [
+                "He refuses to budge from his principles."
+              ]
+            },
+            {
+              "words": [
+                "on"
+              ],
+              "examples": [
+                "The union won't budge on its demand."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "PHRASES",
+          "groups": [
+            {
+              "words": [
+                "not budge an inch"
+              ],
+              "examples": [
+                "He threw all his weight against the door, but it wouldn't budge an inch."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": []
+}

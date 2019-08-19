@@ -1,0 +1,77 @@
+{
+  "word": "condemn",
+  "type": "verb",
+  "meanings": [
+    {
+      "meaning": "",
+      "collocation": [
+        {
+          "format": "ADV.",
+          "groups": [
+            {
+              "words": [
+                "fiercely",
+                "roundly",
+                "strongly",
+                "vehemently",
+                "vigorously",
+                "vociferously"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "unequivocally",
+                "utterly"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "unanimously",
+                "universally"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "openly",
+                "publicly"
+              ],
+              "examples": [
+                "She publicly condemned the opposition leader."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "PREP.",
+          "groups": [
+            {
+              "words": [
+                "for"
+              ],
+              "examples": [
+                "He was roundly condemned for his mistake."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "PHRASES",
+          "groups": [
+            {
+              "words": [
+                "be widely condemned"
+              ],
+              "examples": [
+                "The action has been widely condemned by human rights groups."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": []
+}

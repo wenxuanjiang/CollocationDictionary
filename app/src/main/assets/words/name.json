@@ -1,0 +1,652 @@
+{
+  "word": "name",
+  "type": "noun",
+  "meanings": [
+    {
+      "meaning": "word/words sb/sth is known by",
+      "collocation": [
+        {
+          "format": "ADJ.",
+          "groups": [
+            {
+              "words": [
+                "Christian",
+                "first",
+                "given"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "middle",
+                "second"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "married"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "maiden"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "full"
+              ],
+              "examples": [
+                "His full name was William Augustus Grove."
+              ]
+            },
+            {
+              "words": [
+                "proper",
+                "real"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "assumed",
+                "false"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "official"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "joint"
+              ],
+              "examples": [
+                "The account is in joint names."
+              ]
+            },
+            {
+              "words": [
+                "common"
+              ],
+              "examples": [
+                "\u2018Smith\u2019 is a very common family name."
+              ]
+            },
+            {
+              "words": [
+                "double-barrelled",
+                "hyphenated"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "strange-sounding"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "personal"
+              ],
+              "examples": [
+                "The village of Low Catton takes its name from the Old English personal name \u2018Catta\u2019."
+              ]
+            },
+            {
+              "words": [
+                "brand",
+                "proprietary",
+                "trade"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "company"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "code"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "file"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "place",
+                "street"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "VERB + NAME",
+          "groups": [
+            {
+              "words": [
+                "have"
+              ],
+              "examples": [
+                "Have you got a middle name?"
+              ]
+            },
+            {
+              "words": [
+                "bear",
+                "carry"
+              ],
+              "examples": [
+                "The Julian calendar was introduced by Julius Caesar and hence carries his name."
+              ]
+            },
+            {
+              "words": [
+                "be known by",
+                "go by"
+              ],
+              "examples": [
+                "The island is more commonly known by the name \u2018Krakatoa\u2019. He goes by the name of Jonno."
+              ]
+            },
+            {
+              "words": [
+                "use"
+              ],
+              "examples": [
+                "She uses a different name in her professional life."
+              ]
+            },
+            {
+              "words": [
+                "acquire",
+                "get",
+                "obtain"
+              ],
+              "examples": [
+                "The Brady bill acquired its name from its best-known sponsor, James Brady."
+              ]
+            },
+            {
+              "words": [
+                "adopt",
+                "assume",
+                "take"
+              ],
+              "examples": [
+                "He was elected Pope in 1978 and took the name of John Paul II."
+              ]
+            },
+            {
+              "words": [
+                "keep"
+              ],
+              "examples": [
+                "She decided to keep her maiden name for professional purposes."
+              ]
+            },
+            {
+              "words": [
+                "abandon"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "change"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "carry on"
+              ],
+              "examples": [
+                "He wanted an heir to carry on the family name."
+              ]
+            },
+            {
+              "words": [
+                "immortalize"
+              ],
+              "examples": [
+                "His name was immortalized in 1992 when he scored three goals in the space of five minutes."
+              ]
+            },
+            {
+              "words": [
+                "choose",
+                "decide on/upon"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "give sb/sth"
+              ],
+              "examples": [
+                "She was given the name Maria, after her grandmother."
+              ]
+            },
+            {
+              "words": [
+                "give sb",
+                "name",
+                "pass on"
+              ],
+              "examples": [
+                "Detectives believe that a hitman was sent to silence the witness before he could name names",
+                "."
+              ]
+            },
+            {
+              "words": [
+                "call sb/sth by"
+              ],
+              "examples": [
+                "Please call me by my first name."
+              ]
+            },
+            {
+              "words": [
+                "call sb ~s"
+              ],
+              "examples": [
+                "Stop calling me names",
+                "!"
+              ]
+            },
+            {
+              "words": [
+                "call (out)"
+              ],
+              "examples": [
+                "Somebody called out her name from below."
+              ]
+            },
+            {
+              "words": [
+                "mention"
+              ],
+              "examples": [
+                "We cannot mention the suspect's name for legal reasons."
+              ]
+            },
+            {
+              "words": [
+                "drop"
+              ],
+              "examples": [
+                "She found him rather irritating to talk to; all he did was drop names",
+                "."
+              ]
+            },
+            {
+              "words": [
+                "invoke"
+              ],
+              "examples": [
+                "He invoked the name of Freud in support of his argument."
+              ]
+            },
+            {
+              "words": [
+                "ask (sb)"
+              ],
+              "examples": [
+                "I asked him his name."
+              ]
+            },
+            {
+              "words": [
+                "hear"
+              ],
+              "examples": [
+                "I've heard that name mentioned before."
+              ]
+            },
+            {
+              "words": [
+                "know"
+              ],
+              "examples": [
+                "How do you know my name?"
+              ]
+            },
+            {
+              "words": [
+                "remember"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "print",
+                "sign",
+                "write"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "spell"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "enter",
+                "put down"
+              ],
+              "examples": [
+                "Have you put your name down for",
+                "the school quiz?"
+              ]
+            },
+            {
+              "words": [
+                "put forward"
+              ],
+              "examples": [
+                "They put his name forward",
+                "as one of the five candidates for the post."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "NAME + VERB",
+          "groups": [
+            {
+              "words": [
+                "appear"
+              ],
+              "examples": [
+                "The name of the artist appears on the vase."
+              ]
+            },
+            {
+              "words": [
+                "imply sth",
+                "suggest sth"
+              ],
+              "examples": [
+                "As the name implies, Oxford was the place at which oxen could ford the river."
+              ]
+            },
+            {
+              "words": [
+                "mean sth"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "ring a bell"
+              ],
+              "examples": [
+                "(figurative) \u2018Does that name mean anything to you",
+                "?\u2019 \u2018Yes, it does ring a bell",
+                ".\u2019"
+              ]
+            }
+          ]
+        },
+        {
+          "format": "NAME + NOUN",
+          "groups": [
+            {
+              "words": [
+                "badge",
+                "plate"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "PREP.",
+          "groups": [
+            {
+              "words": [
+                "by ~"
+              ],
+              "examples": [
+                "The head teacher knows every child in the school by name."
+              ]
+            },
+            {
+              "words": [
+                "by the ~ of"
+              ],
+              "examples": [
+                "an actor by the name of Tom Rees"
+              ]
+            },
+            {
+              "words": [
+                "in sb/sth's ~"
+              ],
+              "examples": [
+                "The tickets were booked in the name of McLean. I arrest you in the name",
+                "of the law."
+              ]
+            },
+            {
+              "words": [
+                "under a/the ~"
+              ],
+              "examples": [
+                "The room was booked under",
+                "a false name."
+              ]
+            },
+            {
+              "words": [
+                "~ for/of"
+              ],
+              "examples": [
+                "The common name for the flower is \u2018pineapple lily\u2019."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "PHRASES",
+          "groups": [
+            {
+              "words": [
+                "a change of name",
+                "give your name to sth"
+              ],
+              "examples": [
+                "The invading Franks gave their name to the country in which they settled."
+              ]
+            },
+            {
+              "words": [
+                "name and address",
+                "names and faces"
+              ],
+              "examples": [
+                "I have a bad memory for names and faces."
+              ]
+            },
+            {
+              "words": [
+                "put a name to sb/sth"
+              ],
+              "examples": [
+                "Nobody puts their name to a business",
+                "they are not proud of."
+              ]
+            },
+            {
+              "words": [
+                "take sb's name in vain"
+              ],
+              "examples": [
+                "Have you been taking my name in vain",
+                "?"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "meaning": "reputation",
+      "collocation": [
+        {
+          "format": "ADJ.",
+          "groups": [
+            {
+              "words": [
+                "big"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "good"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "bad"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "VERB + NAME",
+          "groups": [
+            {
+              "words": [
+                "have"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "become"
+              ],
+              "examples": [
+                "She has become a big name in documentary photography."
+              ]
+            },
+            {
+              "words": [
+                "make"
+              ],
+              "examples": [
+                "He made his name writing travel books. She's made quite a name for herself."
+              ]
+            },
+            {
+              "words": [
+                "acquire",
+                "get"
+              ],
+              "examples": [
+                "The area got a bad name after a series of nasty murders."
+              ]
+            },
+            {
+              "words": [
+                "protect"
+              ],
+              "examples": [
+                "They tried to protect the good name of the college."
+              ]
+            },
+            {
+              "words": [
+                "give sb"
+              ],
+              "examples": [
+                "This kind of behaviour gives students a bad name."
+              ]
+            },
+            {
+              "words": [
+                "blacken",
+                "damage"
+              ],
+              "examples": [
+                "The riots after the match only served to blacken the name of football."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "PREP.",
+          "groups": [
+            {
+              "words": [
+                "~ for"
+              ],
+              "examples": [
+                "The company has",
+                "name for reliability"
+              ]
+            }
+          ]
+        },
+        {
+          "format": "PHRASES",
+          "groups": [
+            {
+              "words": [
+                "sb's name is mud"
+              ],
+              "examples": [
+                "If you tell our secret your name will be mud",
+                "round here."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "meaning": "famous person/thing",
+      "collocation": [
+        {
+          "format": "ADJ.",
+          "groups": [
+            {
+              "words": [
+                "big",
+                "famous",
+                "household",
+                "well-known"
+              ],
+              "examples": [
+                "They are a big name in the world of rock music."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": []
+}

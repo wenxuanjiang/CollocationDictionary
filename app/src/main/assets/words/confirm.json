@@ -1,0 +1,57 @@
+{
+  "word": "confirm",
+  "type": "verb",
+  "meanings": [
+    {
+      "meaning": "",
+      "collocation": [
+        {
+          "format": "ADV.",
+          "groups": [
+            {
+              "words": [
+                "merely",
+                "only",
+                "simply"
+              ],
+              "examples": [
+                "This latest tragedy merely confirms my view that the law must be tightened."
+              ]
+            },
+            {
+              "words": [
+                "officially"
+              ],
+              "examples": [
+                "The plans were officially confirmed yesterday."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "VERB + CONFIRM",
+          "groups": [
+            {
+              "words": [
+                "be able/unable to",
+                "can/could"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "appear to",
+                "seem to",
+                "tend to"
+              ],
+              "examples": [
+                "These new symptoms tend to confirm my original diagnosis."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": []
+}

@@ -1,0 +1,313 @@
+{
+  "word": "authority",
+  "type": "noun",
+  "meanings": [
+    {
+      "meaning": "sth with the power to give orders",
+      "collocation": [
+        {
+          "format": "ADJ.",
+          "groups": [
+            {
+              "words": [
+                "district",
+                "local",
+                "regional"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "government",
+                "public"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "education",
+                "health",
+                "military",
+                "planning",
+                "tax"
+              ],
+              "examples": [
+                "The government is urging education authorities to spend less money."
+              ]
+            },
+            {
+              "words": [
+                "competent",
+                "lawful",
+                "relevant",
+                "statutory"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "AUTHORITY + VERB",
+          "groups": [
+            {
+              "words": [
+                "agree sth",
+                "claim sth",
+                "decide sth",
+                "deny sth",
+                "promise sth"
+              ],
+              "examples": [
+                "The local health authority denied negligence."
+              ]
+            },
+            {
+              "words": [
+                "allow (sb) sth",
+                "give (sb) sth",
+                "grant (sb) sth"
+              ],
+              "examples": [
+                "The local authority has not granted planning permission."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "meaning": "power/right to give orders",
+      "collocation": [
+        {
+          "format": "ADJ.",
+          "groups": [
+            {
+              "words": [
+                "absolute",
+                "complete",
+                "full",
+                "supreme"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "governmental",
+                "judicial",
+                "legal",
+                "ministerial",
+                "parental",
+                "presidential"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "VERB + AUTHORITY",
+          "groups": [
+            {
+              "words": [
+                "have"
+              ],
+              "examples": [
+                "Parents have the authority to discipline their children."
+              ]
+            },
+            {
+              "words": [
+                "assume"
+              ],
+              "examples": [
+                "He assumed full authority as tsar in 1689."
+              ]
+            },
+            {
+              "words": [
+                "give sb"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "assert",
+                "demonstrate",
+                "establish",
+                "exercise",
+                "exert",
+                "show",
+                "use",
+                "wield"
+              ],
+              "examples": [
+                "The new manager obviously felt the need to demonstrate her authority."
+              ]
+            },
+            {
+              "words": [
+                "delegate"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "give up",
+                "relinquish"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "abuse"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "challenge",
+                "defy",
+                "deny",
+                "rebel against",
+                "reject",
+                "undermine"
+              ],
+              "examples": [
+                "She had challenged my authority once too often."
+              ]
+            },
+            {
+              "words": [
+                "usurp"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "AUTHORITY + NOUN",
+          "groups": [
+            {
+              "words": [
+                "figure"
+              ],
+              "examples": [
+                "adult authority figures such as parents and teachers"
+              ]
+            }
+          ]
+        },
+        {
+          "format": "PREP.",
+          "groups": [
+            {
+              "words": [
+                "in ~"
+              ],
+              "examples": [
+                "I need to talk to someone in authority."
+              ]
+            },
+            {
+              "words": [
+                "under the ~ of"
+              ],
+              "examples": [
+                "This can only be done under the authority of the government minister."
+              ]
+            },
+            {
+              "words": [
+                "without ~"
+              ],
+              "examples": [
+                "He took the car without authority."
+              ]
+            },
+            {
+              "words": [
+                "~ over"
+              ],
+              "examples": [
+                "Central government has extensive authority over teachers."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "PHRASES",
+          "groups": [
+            {
+              "words": [
+                "an air of authority"
+              ],
+              "examples": [
+                "He bore an air of authority."
+              ]
+            },
+            {
+              "words": [
+                "position of authority"
+              ],
+              "examples": [
+                "She holds a position of authority in the local church."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "meaning": "person with special knowledge",
+      "collocation": [
+        {
+          "format": "ADJ.",
+          "groups": [
+            {
+              "words": [
+                "leading",
+                "respected",
+                "world"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "unimpeachable",
+                "unquestioned"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "VERB + AUTHORITY",
+          "groups": [
+            {
+              "words": [
+                "cite",
+                "invoke"
+              ],
+              "examples": [
+                "Copernicus justified his innovation by citing respected authorities."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "PREP.",
+          "groups": [
+            {
+              "words": [
+                "~ on"
+              ],
+              "examples": [
+                "She's a leading authority on genetics."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": []
+}

@@ -1,0 +1,74 @@
+{
+  "word": "brutality",
+  "type": "noun",
+  "meanings": [
+    {
+      "meaning": "",
+      "collocation": [
+        {
+          "format": "ADJ.",
+          "groups": [
+            {
+              "words": [
+                "extreme",
+                "great"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "police"
+              ],
+              "examples": [
+                "There have been many complaints of police brutality."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "QUANT.",
+          "groups": [
+            {
+              "words": [
+                "act"
+              ],
+              "examples": [
+                "This was an act of extreme brutality."
+              ]
+            }
+          ]
+        },
+        {
+          "format": "PREP.",
+          "groups": [
+            {
+              "words": [
+                "~ against"
+              ],
+              "examples": [
+                "brutality against prisoners"
+              ]
+            },
+            {
+              "words": [
+                "~ by"
+              ],
+              "examples": [
+                "brutality by the security forces"
+              ]
+            },
+            {
+              "words": [
+                "~ to/towards"
+              ],
+              "examples": [
+                "brutality to others"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": []
+}

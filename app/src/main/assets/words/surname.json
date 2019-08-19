@@ -1,0 +1,60 @@
+{
+  "word": "surname",
+  "type": "noun",
+  "meanings": [
+    {
+      "meaning": "",
+      "collocation": [
+        {
+          "format": "ADJ.",
+          "groups": [
+            {
+              "words": [
+                "double-barrelled",
+                "hyphenated"
+              ],
+              "examples": []
+            }
+          ]
+        },
+        {
+          "format": "VERB + SURNAME",
+          "groups": [
+            {
+              "words": [
+                "bear",
+                "have"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "address/call sb by"
+              ],
+              "examples": [
+                "The teacher addresses the students by their surnames."
+              ]
+            },
+            {
+              "words": [
+                "change"
+              ],
+              "examples": []
+            },
+            {
+              "words": [
+                "adopt",
+                "assume",
+                "take"
+              ],
+              "examples": [
+                "On marriage most women still take their husband's surname."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "link": []
+}
